@@ -61,6 +61,15 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
 }
+.bottom ul li {
+    list-style-type: none;
+    padding: 5px 0px 5px 0px;
+}
+.bottom p {
+    padding: 0px;
+    padding: 0px;
+    text-align: left;
+}
 .box {
     width: 250px;
     padding: 10px;
